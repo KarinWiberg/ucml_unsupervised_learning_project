@@ -1,4 +1,4 @@
-# Project: Identify Customer Segments
+# Unsupervised Project: Identify Customer Segments
 In this project, unsupervised learning techniques are applied to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can later be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that is used has been provided by Bertelsmann Arvato Analytics.
 
 ## Data
