@@ -2,7 +2,7 @@
 In this project, unsupervised learning techniques are applied to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can later be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that is used has been provided by Bertelsmann Arvato Analytics.
 
 ## Data
-There are four data files associated with this project:
+There are four data files associated with this project:  
 `Udacity_AZDIAS_Subset.csv`: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).  
 `Udacity_CUSTOMERS_Subset.csv`: Demographics data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).  
 `Data_Dictionary.md`: Detailed information file about the features in the provided datasets.  
